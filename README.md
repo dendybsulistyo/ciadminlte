@@ -1,23 +1,25 @@
 # CI-AdminLTE v1.5.2
 
-## Demo
+## Sumber 
+https://github.com/waifung0207/ci_bootstrap_3
 
-Coming soon
+## Custom
+Dendy B. Sulistyo (dendybsulistyo@gmail.com)
+
+## Demo
+soon...
 
 ### Login
  * Email : `admin@admin.com`
  * Password : `password`
 
 ## Browser Compatibility
-Support for most major browsers including Chrome, Firefox, IE9+, Opera and Safari.
+Chrome, Firefox, IE9+, Opera and Safari.
 
-## Languages
+## Bahasa
   * English
-  * French
-  * Portuguese (translation by [marcelod](https://github.com/marcelod))
-  * ... and more soon
- 
-## Dependencies
+
+## Tools
 | NAME | VERSION | WEB | REPO |
 | :--- | :---: | :---: | :---: |
 | CodeIgniter | 3.1.5 | [Website](http://codeigniter.com) | [Github](https://github.com/bcit-ci/CodeIgniter/)
@@ -26,3 +28,4 @@ Support for most major browsers including Chrome, Firefox, IE9+, Opera and Safar
 | Ion Auth | 2.6.0 | [Website](http://benedmunds.com/ion_auth) | [Github](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
 | jQuery | 2.2.4 | [Website](http://jquery.com) | [Github](https://github.com/jquery/jquery)
 | Font Awesome | 4.7.0 | [Website](http://fortawesome.github.io/Font-Awesome/) | [Github](https://github.com/FortAwesome/Font-Awesome)
+
